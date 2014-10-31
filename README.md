@@ -1,0 +1,4 @@
+CodeCoin
+========
+
+To be announced
